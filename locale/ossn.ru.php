@@ -9,7 +9,7 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 
-$en = array(
+$ru = array(
 	'home' => 'Домой',
 	'site:index' => 'Привет',
 	'news:feed' => 'Новости',
@@ -294,8 +294,8 @@ $en = array(
 	'admin:com:availability' => 'Доступность',
 	'ossn:exception:make:sure' => 'Вы уверены?',
 	'ossn:premium' => 'Премиальная версия',
-	'datepicker:days' => "Вс, Пн, Вт, Ср, Чт, Пт, Сб",
-	'datepicker:months' => "Янв., Фев., Мар., Апр., Май, Июнь, Июль, Авг., Сеп., Окт., Ноя., Дек.",
+	'datepicker:days' => 'Вс, Пн, Вт, Ср, Чт, Пт, Сб',
+	'datepicker:months' => 'Янв., Фев., Мар., Апр., Май, Июнь, Июль, Авг., Сеп., Окт., Ноя., Дек.',
 	/*
 	 * List of ISO 639-1 language codes
 	 * http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
